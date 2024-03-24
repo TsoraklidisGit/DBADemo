@@ -1,0 +1,30 @@
+{
+  "army": [
+    [],
+    [
+      {
+        "id": 1,
+        "name": "Warrior",
+        "type": "Infantry",
+        "combat_foot": 4,
+        "combat_cavalry": 2,
+        "movement_gg": 3,
+        "movement_bg": 2,
+        "special": "Brave"
+      },
+      {
+        "id": 2,
+        "name": "Archer",
+        "type": "Ranged",
+        "combat_foot": 2,
+        "combat_cavalry": 1,
+        "movement_gg": 2,
+        "movement_bg": 3,
+        "special": "Accurate"
+      }
+    ],
+    [],
+    [],
+    []
+  ]
+}

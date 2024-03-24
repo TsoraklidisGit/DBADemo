@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Warband",
+    "type": "Solid",
+    "combatFoot": 1,
+    "combatMounted": 1,
+    "movementGG": 1,
+    "movementBG": 1,
+    "special": "very special"
+  },
+  {
+    "name": "Cavalry",
+    "type": "Fast",
+    "combatFoot": 1,
+    "combatMounted": 1,
+    "movementGG": 1,
+    "movementBG": 1,
+    "special": "very fast"
+  }
+]
